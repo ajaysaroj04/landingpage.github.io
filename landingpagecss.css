@@ -1,0 +1,23 @@
+
+
+body{
+	background-image: url("header.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	background-size: 100%;
+	font-family: 'Love Ya Like A Sister', cursive;
+}
+	
+h2{
+	color:white;
+	text-align: center;
+	margin-top:270px;
+}
+.btn{
+	color:white;
+	background-color: rgba(255, 69, 0, 0.9);
+	border-radius: 100px;
+	margin-left: 630px;
+	margin-top: 280px;
+}
